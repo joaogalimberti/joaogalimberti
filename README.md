@@ -31,19 +31,14 @@ I'm seeking internship opportunities or entry-level positions in information tec
 
 ### If you're looking for a tech enthusiast, committed to continuous learning, and ready to contribute to your team, I'm available for collaboration opportunities.
 
-
-<a href="https://github.com/iuricode" title="Perfil do Iuri">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iuricode&theme=dracula&show_icons=true" />
-</a>
+<div>
+<a href="https://github.com/joaogalimberti">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaogalimberti&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=joaogalimberti&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
 
 ## Contacts
 
 [![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](LINK-DO-SEU-LINKEDIN)
 [![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joaogalimberti@gmail.com)](mailto:joaogalimberti@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)]((https://github.com/joaogalimberti))
-
-<div>
-<a href="https://github.com/joaogalimberti">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaogalimberti&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=joaogalimberti&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
