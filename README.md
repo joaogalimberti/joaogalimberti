@@ -20,6 +20,7 @@ I possess strong skills in programming and software development, acquired both i
 
 ## 🎓 Education
 Ongoing Bachelor's Degree: Analysis and Systems Development
+
 Technical Education: Computer Networks
 
 ## 🔎 Professional Objective
