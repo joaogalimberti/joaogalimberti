@@ -36,5 +36,5 @@ I'm seeking internship opportunities or entry-level positions in information tec
 
 ## 💬 Contacts
 
-[![Linkedin](https://img.shields.io/badge/-joaogalimberti-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/joaogalimberti)](https://www.linkedin.com/joaogalimberti)
+[![Linkedin](https://img.shields.io/badge/-joaogalimberti-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joaogalimberti/)](https://www.linkedin.com/in/joaogalimberti/)
 [![Gmail Badge](https://img.shields.io/badge/-joaogalimberti@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joaogalimberti@gmail.com)](mailto:joaogalimberti@gmail.com)
