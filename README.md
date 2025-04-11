@@ -5,8 +5,13 @@
 <div align="center">
   
 ## <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="28px"> Hello there! I'm João Galimberti, and I'm delighted to have you here.
- 👩🏻‍💻 I'm a dedicated university student, currently pursuing a degree in Analysis and Systems Development, with a solid technical background in Computer Networks. Since an early age, I've developed a passion for technology and I'm constantly seeking opportunities to apply my theoretical knowledge into practice, aiming to continue my journey of learning and professional growth.
 </div>
+
+## 🔍 About Me
+I'm a dedicated university student, currently pursuing a degree in Analysis and Systems Development, with a solid technical background in Computer Networks. Since an early age, I've developed a passion for technology and I'm constantly seeking opportunities to apply my theoretical knowledge into practice, aiming to continue my journey of learning and professional growth.
+
+## 💼 Experience and Skills
+I possess strong skills in programming and software development, acquired both in the classroom and through personal projects. I'm familiar with languages such as Python and JavaScript, as well as frameworks and development tools. I'm constantly striving to enhance my technical skills and expand my knowledge in the field of information technology.
 
 <div align="center">
   <a href="https://github.com/joaogalimberti">
