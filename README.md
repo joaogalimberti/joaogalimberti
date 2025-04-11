@@ -22,30 +22,31 @@ I possess strong skills in programming and software development, acquired both i
 
    <!-- Distintivos de Linguagens e Habilidades -->
 <div style="display: inline_block" align="center"><br>
-  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-  <img   src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">&nbsp;
-  <img  src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">&nbsp;
+  <img   src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">&nbsp;
+  <img   src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">&nbsp;
+  <img   src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">&nbsp;
   <img   src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">&nbsp;
-  <img   src="https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C">&nbsp;
-  <img   src="https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5">&nbsp;
-  <img   src="https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6">&nbsp;
-  <img   src="https://img.shields.io/badge/-Git-333333?style=flat&logo=git">&nbsp;
+  <img   src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">&nbsp;
+  <img   src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">&nbsp;
+  <img   src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">&nbsp;
+  <img   src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white">&nbsp;
+  <img   src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">&nbsp;
   <img   src="https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github">&nbsp;
-  <img   src="https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC">&nbsp;
-  <img   src="https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC">&nbsp;
+  <img   src="https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">&nbsp;
+  <img   src="https://img.shields.io/badge/Figma-696969?style=for-the-badge&logo=figma&logoColor=figma">&nbsp;
 </div>
  <br>
+ 
 <!-- Contador de Visitantes -->
 <div align="center">
-  <br><p align="center"><b>Quantidade de visitantes</b></p>  
-  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{larialbu}/count.svg" /></p> 
+  <br><p align="center"><b>Number of Visitors</b></p>  
+  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{joaogalimberti}/count.svg" /></p> 
   <br>
 </div>
 
 <div align="center"> 
-  <a href="https://instagram.com/llarissa.png" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:larissaamca1@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/larissa-albuquerque-39133a239/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:joaogalimberti@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/joaogalimberti/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
 
