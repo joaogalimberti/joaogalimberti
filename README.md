@@ -36,13 +36,12 @@ I possess strong skills in **programming and software development**, acquired bo
 ## 📈 **GitHub Statistics**
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=joaogalimberti&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4079a8&icon_color=4079a8&text_color=c9d1d9&count_private=true&include_all_commits=true" />
-  <img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=joaogalimberti&theme=tokyonight&hide_border=true&background=0D1117&stroke=4079a8&ring=4079a8&fire=FF6B6B&currStreakLabel=4079a8" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joaogalimberti&theme=tokyonight" width="98%">
 </div>
-
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaogalimberti&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4079a8&text_color=c9d1d9&langs_count=8" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joaogalimberti&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=joaogalimberti&theme=tokyonight" width="32%">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=joaogalimberti&theme=tokyonight" width="32%">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=joaogalimberti&theme=tokyonight&utcOffset=-3" width="32%">
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -94,7 +93,7 @@ I possess strong skills in **programming and software development**, acquired bo
 <!-- Footer Wave Animation -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=150&section=footer"/>
 
-<!-- Hidden Message -->
+<!-- Animated Footer Message -->
 <div align="center">
-  <sub>💙 Made with passion and lots of coffee ☕</sub>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=4079A8&center=true&vCenter=true&width=600&lines=💙+Made+with+passion+and+lots+of+coffee+☕;Thanks+for+visiting!+⭐;Feel+free+to+explore+my+repositories+🚀" alt="Footer" />
 </div>
