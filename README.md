@@ -1,92 +1,106 @@
-<!-- Header Wave Animation -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=200&section=header&text=João%20Galimberti&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Software%20Developer%20|%20Tech%20Enthusiast&descSize=18&descAlignY=55"/>
-
-<!-- Animated Typing Introduction -->
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=4079A8&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Hello+World!+%F0%9F%91%8B;Welcome+to+my+GitHub+Profile;Building+the+Future+with+Code" alt="Typing SVG" />
-</div>
-
-<br>
-
-<br>
-
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<!-- About Me Section -->
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28px"> **About Me**
-
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
-I'm a dedicated university student, currently pursuing a degree in **Analysis and Systems Development**, with a solid technical background in **Computer Networks**. Since an early age, I've developed a passion for technology and I'm constantly seeking opportunities to apply my theoretical knowledge into practice.
-
-### 🎯 **Current Focus**
-- 🔭 Building scalable and efficient applications
-- 🌱 Expanding my knowledge in modern frameworks
-- 🧑‍🤝‍🧑 Open to collaborate on innovative projects
-- 💡 Always learning something new in tech
-
-<br clear="both"/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<!-- GitHub Stats Section -->
-## 📈 **GitHub Statistics**
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joaogalimberti&theme=tokyonight" width="98%">
-</div>
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=joaogalimberti&theme=tokyonight" width="32%">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=joaogalimberti&theme=tokyonight" width="32%">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=joaogalimberti&theme=tokyonight&utcOffset=-3" width="32%">
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<!-- Tech Stack Section -->
-## 🛠️ **Tech Stack & Tools**
-
 <div align="center">
 
-### **Languages**
-<img src="https://skillicons.dev/icons?i=python,javascript,typescript,java,c,cpp,r,html,css&theme=dark" />
+# João Galimberti
 
-### **Frameworks & Libraries**
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,django,flask,tailwind&theme=dark" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1200&color=4079A8&center=true&vCenter=true&width=700&height=40&lines=Software+Developer;Analysis+%26+Systems+Development+graduate;Building+modern+web+apps+with+React+%26+Node" alt="Typing SVG" />
 
-### **Databases & Backend**
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,supabase&theme=dark" />
+<br />
 
-### **Tools & Platforms**
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,linux,docker,vite&theme=dark" />
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<!-- Connect Section -->
-## 🤝 **Let's Connect!**
-
-<div align="center">
-  
-<!-- Portfolio Button -->
-<div align="center">
-  <a href="https://joaogalimberti.com.br" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_Visit_My_Portfolio-Click_Here-4079A8?style=for-the-badge&logoColor=white&labelColor=1a1a1a" alt="Portfolio Website" height="40"/>
-  </a>
-</div>
-
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joaogalimberti@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-joaogalimberti.com.br-4079A8?style=for-the-badge&logo=googlechrome&logoColor=white)](https://joaogalimberti.com.br)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaogalimberti/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joaogalimberti@gmail.com)
 
 </div>
 
-<br>
+<br />
+
+## ◆ About
+
+Software developer with a degree in **Analysis and Systems Development** and a technical background in **Computer Networks**. I love turning ideas into fast, polished products, from landing pages to full-stack systems.
+
+<details>
+<summary><b>What I'm focused on</b></summary>
+
+<br />
+
+- 🔭 Building scalable and efficient applications
+- 🌱 Going deeper into modern frameworks
+- 🤝 Open to collaborating on innovative projects
+- 💡 Learning something new in tech every day
+
+</details>
+
+<br />
+
+## ◆ Featured projects
+
+| Project | What it is | Stack |
+|---|---|---|
+| [**STREVO**](https://github.com/joaogalimberti/strevo) | Workout tracker with streaks and a 9:16 story generator | React, TypeScript, Canvas |
+| [**Praeso**](https://github.com/joaogalimberti/no-show-reducer) | Full system to reduce appointment no-shows | React, Node, Prisma, PostgreSQL |
+| [**Aivy**](https://github.com/joaogalimberti/aivy) | Landing page for an AI WhatsApp assistant | React, TypeScript, Tailwind |
+| [**Dengue Mission**](https://github.com/joaogalimberti/dengue-mission) | Educational game to fight dengue | React, TypeScript, Phaser |
+| [**Oliva**](https://github.com/joaogalimberti/shopping-list-system) | Shopping list with CRUD and REST API | Vanilla JS, Vite |
+| [**Portfolio**](https://github.com/joaogalimberti/portfolio) | My personal website | React, Vite |
+
+<br />
+
+## ◆ Tech stack
+
+<details open>
+<summary><b>Languages</b></summary>
+
+<br />
+
+<img src="https://skillicons.dev/icons?i=typescript,javascript,python,java,c,cpp,r,html,css" />
+
+</details>
+
+<details>
+<summary><b>Frameworks and libraries</b></summary>
+
+<br />
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,tailwind,django,flask" />
+
+</details>
+
+<details>
+<summary><b>Databases and backend</b></summary>
+
+<br />
+
+<img src="https://skillicons.dev/icons?i=postgresql,supabase,mysql,mongodb,prisma" />
+
+</details>
+
+<details>
+<summary><b>Tools and platforms</b></summary>
+
+<br />
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,linux,docker,vite" />
+
+</details>
+
+<br />
+
+## ◆ GitHub activity
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=joaogalimberti&color=4079a8&style=for-the-badge&label=PROFILE+VIEWS" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joaogalimberti&theme=tokyonight" width="98%" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=joaogalimberti&theme=tokyonight" width="32%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=joaogalimberti&theme=tokyonight" width="32%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=joaogalimberti&theme=tokyonight&utcOffset=-3" width="32%" />
+
 </div>
 
-<!-- Footer Wave Animation -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=150&section=footer"/>
+<br />
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=joaogalimberti&color=4079a8&style=flat-square&label=PROFILE+VIEWS" />
+
+</div>
